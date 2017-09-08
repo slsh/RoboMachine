@@ -1,5 +1,8 @@
 *.pyc
 atest/*.txt
+build/
+RoboMachine.egg-info/
+dist/
 log.html
 output.xml
 report.html
